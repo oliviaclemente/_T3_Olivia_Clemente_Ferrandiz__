@@ -1,0 +1,2 @@
+nombre= "Eric" #nombrar la variable (cadena), por lo tanto se pone ""
+print(f"Hola {nombre}, ¿te gustaría aprender algo de Python hoy?") #imprimir la variable con f para que salga la variable nombrada anteriormente
